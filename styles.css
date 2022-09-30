@@ -1,0 +1,44 @@
+body {
+    background-color: white;
+}
+
+.main {
+    background: #eee;
+    margin: 30px 8px;
+}
+
+.title {
+    text-align: center;
+}
+
+#image-div {
+background: white;
+padding: 10px;
+}
+
+#image {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+   
+}
+
+#image-caption {
+text-align: center;
+padding: 10px;
+}
+
+#timeline-heading {
+    text-align: center;
+}
+
+.list {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+#read-more {
+    text-align: center;
+}
